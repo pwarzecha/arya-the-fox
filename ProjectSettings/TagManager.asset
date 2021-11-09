@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  - Bound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Both
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3760020015
+    locked: 0
+  - name: Path
+    uniqueID: 2720606441
+    locked: 0
+  - name: Tress
+    uniqueID: 2929120237
+    locked: 0
+  - name: Elements
+    uniqueID: 765084269
+    locked: 0
+  - name: Buildings
+    uniqueID: 3412182757
+    locked: 0
+  - name: Signs
+    uniqueID: 3307929081
+    locked: 0
+  - name: Player
+    uniqueID: 2439468331
+    locked: 0
+  - name: breakable
+    uniqueID: 3199863211
+    locked: 0
+  - name: enemy
+    uniqueID: 1796285481
+    locked: 0

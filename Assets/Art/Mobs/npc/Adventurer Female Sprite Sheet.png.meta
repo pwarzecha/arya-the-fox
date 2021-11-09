@@ -1,0 +1,1445 @@
+fileFormatVersion: 2
+guid: bc9ce9d5a1ea08d45ae435b5ce9df735
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1440518041077064095
+    second: Adventurer Female Sprite Sheet_0
+  - first:
+      213: 1927154432546424787
+    second: Adventurer Female Sprite Sheet_1
+  - first:
+      213: -3362215572200808990
+    second: Adventurer Female Sprite Sheet_2
+  - first:
+      213: 7979074200822808942
+    second: Adventurer Female Sprite Sheet_3
+  - first:
+      213: 3662680490533180769
+    second: Adventurer Female Sprite Sheet_4
+  - first:
+      213: 4620608302205990325
+    second: Adventurer Female Sprite Sheet_5
+  - first:
+      213: -8187454204970945972
+    second: Adventurer Female Sprite Sheet_6
+  - first:
+      213: -2464464415109538524
+    second: Adventurer Female Sprite Sheet_7
+  - first:
+      213: 882556300075621838
+    second: Adventurer Female Sprite Sheet_8
+  - first:
+      213: 8104460964076836889
+    second: Adventurer Female Sprite Sheet_9
+  - first:
+      213: -39052010764808234
+    second: Adventurer Female Sprite Sheet_10
+  - first:
+      213: -561519679613458101
+    second: Adventurer Female Sprite Sheet_11
+  - first:
+      213: -7990961109601412096
+    second: Adventurer Female Sprite Sheet_12
+  - first:
+      213: 1484541506824012365
+    second: Adventurer Female Sprite Sheet_13
+  - first:
+      213: -1840752998641234693
+    second: Adventurer Female Sprite Sheet_14
+  - first:
+      213: -3908634467906884950
+    second: Adventurer Female Sprite Sheet_15
+  - first:
+      213: 1187294556592463341
+    second: Adventurer Female Sprite Sheet_16
+  - first:
+      213: -2482379645055944973
+    second: Adventurer Female Sprite Sheet_17
+  - first:
+      213: -7727607939976299240
+    second: Adventurer Female Sprite Sheet_18
+  - first:
+      213: -6299965203621965811
+    second: Adventurer Female Sprite Sheet_19
+  - first:
+      213: 642458823119470675
+    second: Adventurer Female Sprite Sheet_20
+  - first:
+      213: 2712194743655051407
+    second: Adventurer Female Sprite Sheet_21
+  - first:
+      213: -5337560667758865784
+    second: Adventurer Female Sprite Sheet_22
+  - first:
+      213: -7741771495787175378
+    second: Adventurer Female Sprite Sheet_23
+  - first:
+      213: -2927161851363396854
+    second: Adventurer Female Sprite Sheet_24
+  - first:
+      213: 1401840931244149564
+    second: Adventurer Female Sprite Sheet_25
+  - first:
+      213: 5726214664535781439
+    second: Adventurer Female Sprite Sheet_26
+  - first:
+      213: -6833262853496069922
+    second: Adventurer Female Sprite Sheet_27
+  - first:
+      213: 8396592794972293529
+    second: Adventurer Female Sprite Sheet_28
+  - first:
+      213: 1569879187802173327
+    second: Adventurer Female Sprite Sheet_29
+  - first:
+      213: 489557071490105177
+    second: Adventurer Female Sprite Sheet_30
+  - first:
+      213: 1112904660496486075
+    second: Adventurer Female Sprite Sheet_31
+  - first:
+      213: 7260229939732723003
+    second: Adventurer Female Sprite Sheet_32
+  - first:
+      213: 8632853111620347770
+    second: Adventurer Female Sprite Sheet_33
+  - first:
+      213: 4071636238654133930
+    second: Adventurer Female Sprite Sheet_34
+  - first:
+      213: 7147890255029268589
+    second: Adventurer Female Sprite Sheet_35
+  - first:
+      213: -7350996858177521694
+    second: Adventurer Female Sprite Sheet_36
+  - first:
+      213: -3829765999028038619
+    second: Adventurer Female Sprite Sheet_37
+  - first:
+      213: 2778032627295402909
+    second: Adventurer Female Sprite Sheet_38
+  - first:
+      213: -4226212269267474665
+    second: Adventurer Female Sprite Sheet_39
+  - first:
+      213: 2693751403432088350
+    second: Adventurer Female Sprite Sheet_40
+  - first:
+      213: 3844566481939859416
+    second: Adventurer Female Sprite Sheet_41
+  - first:
+      213: 2402514777133677609
+    second: Adventurer Female Sprite Sheet_42
+  - first:
+      213: -8911442074221217158
+    second: Adventurer Female Sprite Sheet_43
+  - first:
+      213: -4879556568184944139
+    second: Adventurer Female Sprite Sheet_44
+  - first:
+      213: 3260736399038544727
+    second: Adventurer Female Sprite Sheet_45
+  - first:
+      213: 9126900016108206499
+    second: Adventurer Female Sprite Sheet_46
+  - first:
+      213: -1647518839304001573
+    second: Adventurer Female Sprite Sheet_47
+  - first:
+      213: -2996900820853975028
+    second: Adventurer Female Sprite Sheet_48
+  - first:
+      213: -2101097226742822623
+    second: Adventurer Female Sprite Sheet_49
+  - first:
+      213: 2111739666085803565
+    second: Adventurer Female Sprite Sheet_50
+  - first:
+      213: -2263506951723686743
+    second: Adventurer Female Sprite Sheet_51
+  - first:
+      213: -8394691641893796480
+    second: Adventurer Female Sprite Sheet_52
+  - first:
+      213: 1408586669113802805
+    second: Adventurer Female Sprite Sheet_53
+  - first:
+      213: -8482894872731270851
+    second: Adventurer Female Sprite Sheet_54
+  - first:
+      213: 4396111275290896153
+    second: Adventurer Female Sprite Sheet_55
+  - first:
+      213: -5592829898357908695
+    second: Adventurer Female Sprite Sheet_56
+  - first:
+      213: -2062095754520653915
+    second: Adventurer Female Sprite Sheet_57
+  - first:
+      213: 6852323913601184298
+    second: Adventurer Female Sprite Sheet_58
+  - first:
+      213: 7792050142719480525
+    second: Adventurer Female Sprite Sheet_59
+  - first:
+      213: -5394891976864225897
+    second: Adventurer Female Sprite Sheet_60
+  - first:
+      213: -4069235365585009867
+    second: Adventurer Female Sprite Sheet_61
+  - first:
+      213: -6148323018716480796
+    second: Adventurer Female Sprite Sheet_62
+  - first:
+      213: -3157185136083542617
+    second: Adventurer Female Sprite Sheet_63
+  - first:
+      213: 5006081068230052133
+    second: Adventurer Female Sprite Sheet_64
+  - first:
+      213: -4532438288162295479
+    second: Adventurer Female Sprite Sheet_65
+  - first:
+      213: 8861022411600509138
+    second: Adventurer Female Sprite Sheet_66
+  - first:
+      213: -9149821733460371221
+    second: Adventurer Female Sprite Sheet_67
+  - first:
+      213: -7240225093881893266
+    second: Adventurer Female Sprite Sheet_68
+  - first:
+      213: -8092901949787762362
+    second: Adventurer Female Sprite Sheet_69
+  - first:
+      213: -1619623073134618331
+    second: Adventurer Female Sprite Sheet_70
+  - first:
+      213: -13654315283913036
+    second: Adventurer Female Sprite Sheet_71
+  - first:
+      213: -4704901668733282976
+    second: Adventurer Female Sprite Sheet_72
+  - first:
+      213: -3016270692857606066
+    second: Adventurer Female Sprite Sheet_73
+  - first:
+      213: 1719528961339782635
+    second: Adventurer Female Sprite Sheet_74
+  - first:
+      213: 546613005828225772
+    second: Adventurer Female Sprite Sheet_75
+  - first:
+      213: -5449976404408205182
+    second: Adventurer Female Sprite Sheet_76
+  - first:
+      213: 5768787432423626693
+    second: Adventurer Female Sprite Sheet_77
+  - first:
+      213: -7320742525835799513
+    second: Adventurer Female Sprite Sheet_78
+  - first:
+      213: 830067312915761397
+    second: Adventurer Female Sprite Sheet_79
+  - first:
+      213: 8615899525126417360
+    second: Adventurer Female Sprite Sheet_80
+  - first:
+      213: 1700519970716368767
+    second: Adventurer Female Sprite Sheet_81
+  - first:
+      213: -8174604536853118641
+    second: Adventurer Female Sprite Sheet_82
+  - first:
+      213: 1736759882518380348
+    second: Adventurer Female Sprite Sheet_83
+  - first:
+      213: -8621722583971943627
+    second: Adventurer Female Sprite Sheet_84
+  - first:
+      213: -3612595271493537358
+    second: Adventurer Female Sprite Sheet_85
+  - first:
+      213: -1634709623042977016
+    second: Adventurer Female Sprite Sheet_86
+  - first:
+      213: 3008015629994257465
+    second: Adventurer Female Sprite Sheet_87
+  - first:
+      213: 2978398213634468738
+    second: Adventurer Female Sprite Sheet_88
+  - first:
+      213: 894459597219235696
+    second: Adventurer Female Sprite Sheet_89
+  - first:
+      213: -3762666875606545626
+    second: Adventurer Female Sprite Sheet_90
+  - first:
+      213: 6025312339555032864
+    second: Adventurer Female Sprite Sheet_91
+  - first:
+      213: 3861205681562732890
+    second: Adventurer Female Sprite Sheet_92
+  - first:
+      213: -848720758105457783
+    second: Adventurer Female Sprite Sheet_93
+  - first:
+      213: -2031016711983440451
+    second: Adventurer Female Sprite Sheet_94
+  - first:
+      213: 5198308596915753853
+    second: Adventurer Female Sprite Sheet_95
+  - first:
+      213: -1495569376182468849
+    second: Adventurer Female Sprite Sheet_96
+  - first:
+      213: -2314932475455478665
+    second: Adventurer Female Sprite Sheet_97
+  - first:
+      213: -8560414043133507344
+    second: Adventurer Female Sprite Sheet_98
+  - first:
+      213: -3620705311404193990
+    second: Adventurer Female Sprite Sheet_99
+  - first:
+      213: 5947379092536780866
+    second: Adventurer Female Sprite Sheet_100
+  - first:
+      213: 4010006301822212019
+    second: Adventurer Female Sprite Sheet_101
+  - first:
+      213: 8606477230475418942
+    second: Adventurer Female Sprite Sheet_102
+  - first:
+      213: 5876548299912082883
+    second: Adventurer Female Sprite Sheet_103
+  - first:
+      213: -5117797147546394699
+    second: Adventurer Female Sprite Sheet_104
+  - first:
+      213: -9144460136972344695
+    second: Adventurer Female Sprite Sheet_105
+  - first:
+      213: -194587329777043948
+    second: Adventurer Female Sprite Sheet_106
+  - first:
+      213: 5173820040714621250
+    second: Adventurer Female Sprite Sheet_107
+  - first:
+      213: 8201610706231736236
+    second: Adventurer Female Sprite Sheet_108
+  - first:
+      213: 745852443511437350
+    second: Adventurer Female Sprite Sheet_109
+  - first:
+      213: 9038161459605722763
+    second: Adventurer Female Sprite Sheet_110
+  - first:
+      213: -6440859519444040351
+    second: Adventurer Female Sprite Sheet_111
+  - first:
+      213: -8739541942843721639
+    second: Adventurer Female Sprite Sheet_112
+  - first:
+      213: -8613061847408844058
+    second: Adventurer Female Sprite Sheet_113
+  - first:
+      213: 111712754410468397
+    second: Adventurer Female Sprite Sheet_114
+  - first:
+      213: -1120125059655167604
+    second: Adventurer Female Sprite Sheet_115
+  - first:
+      213: 7812807303752211884
+    second: Adventurer Female Sprite Sheet_116
+  - first:
+      213: 6778581037976871654
+    second: Adventurer Female Sprite Sheet_117
+  - first:
+      213: 9013386278327343864
+    second: Adventurer Female Sprite Sheet_118
+  - first:
+      213: 7567693414348201456
+    second: Adventurer Female Sprite Sheet_119
+  - first:
+      213: -6660080803308008425
+    second: Adventurer Female Sprite Sheet_120
+  - first:
+      213: -8565609598192127034
+    second: Adventurer Female Sprite Sheet_121
+  - first:
+      213: -8399563689054388951
+    second: Adventurer Female Sprite Sheet_122
+  - first:
+      213: 7053287183216981870
+    second: Adventurer Female Sprite Sheet_123
+  - first:
+      213: 1266932688094640364
+    second: Adventurer Female Sprite Sheet_124
+  - first:
+      213: 3697368009180122554
+    second: Adventurer Female Sprite Sheet_125
+  - first:
+      213: 7109308145004659810
+    second: Adventurer Female Sprite Sheet_126
+  - first:
+      213: 8559008205232958157
+    second: Adventurer Female Sprite Sheet_127
+  - first:
+      213: 7030857112318615883
+    second: Adventurer Female Sprite Sheet_128
+  - first:
+      213: -4519295809114445969
+    second: Adventurer Female Sprite Sheet_129
+  - first:
+      213: 3873994167745650352
+    second: Adventurer Female Sprite Sheet_130
+  - first:
+      213: -5663108987059015824
+    second: Adventurer Female Sprite Sheet_131
+  - first:
+      213: 7989400414757744801
+    second: Adventurer Female Sprite Sheet_132
+  - first:
+      213: 6565922448981689750
+    second: Adventurer Female Sprite Sheet_133
+  - first:
+      213: 5508092719232053120
+    second: Adventurer Female Sprite Sheet_134
+  - first:
+      213: -7804941591599487751
+    second: Adventurer Female Sprite Sheet_135
+  - first:
+      213: 4702481634564964285
+    second: Adventurer Female Sprite Sheet_136
+  - first:
+      213: -889456400551140265
+    second: Adventurer Female Sprite Sheet_137
+  - first:
+      213: -7321688573562438445
+    second: Adventurer Female Sprite Sheet_138
+  - first:
+      213: 823148145235021198
+    second: Adventurer Female Sprite Sheet_139
+  - first:
+      213: -8852705700327686047
+    second: Adventurer Female Sprite Sheet_140
+  - first:
+      213: 5633624311651678354
+    second: Adventurer Female Sprite Sheet_141
+  - first:
+      213: 6872895492503893893
+    second: Adventurer Female Sprite Sheet_142
+  - first:
+      213: -4318811609132321854
+    second: Adventurer Female Sprite Sheet_143
+  - first:
+      213: 2355585190167497220
+    second: Adventurer Female Sprite Sheet_144
+  - first:
+      213: 2643991846345291633
+    second: Adventurer Female Sprite Sheet_145
+  - first:
+      213: -2998725170301261718
+    second: Adventurer Female Sprite Sheet_146
+  - first:
+      213: 1442218599846629781
+    second: Adventurer Female Sprite Sheet_147
+  - first:
+      213: 3795845927373690517
+    second: Adventurer Female Sprite Sheet_148
+  - first:
+      213: 2618861956890308147
+    second: Adventurer Female Sprite Sheet_149
+  - first:
+      213: -619584534763410390
+    second: Adventurer Female Sprite Sheet_150
+  - first:
+      213: 9047747263261996336
+    second: Adventurer Female Sprite Sheet_151
+  - first:
+      213: 5632893097689329472
+    second: Adventurer Female Sprite Sheet_152
+  - first:
+      213: 8987741001097964383
+    second: Adventurer Female Sprite Sheet_153
+  - first:
+      213: -4897302080341526947
+    second: Adventurer Female Sprite Sheet_154
+  - first:
+      213: 7738217553939956588
+    second: Adventurer Female Sprite Sheet_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5f0d4970420ce0800000000000000
+      internalID: -1440518041077064095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7cf33feb0aeba10800000000000000
+      internalID: 1927154432546424787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed1fa830c20751d0800000000000000
+      internalID: -3362215572200808990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610780f5bd5bbe60800000000000000
+      internalID: 7979074200822808942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165dbfb108474d230800000000000000
+      internalID: 3662680490533180769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5753315c2bf1040800000000000000
+      internalID: 4620608302205990325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42bde197c1506e80800000000000000
+      internalID: -8187454204970945972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d1ec7fba67ccdd0800000000000000
+      internalID: -2464464415109538524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd5a4867487f3c00800000000000000
+      internalID: 882556300075621838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d1dbbe44d87070800000000000000
+      internalID: 8104460964076836889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df49923762457ff0800000000000000
+      internalID: -39052010764808234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49af3293d41538f0800000000000000
+      internalID: -561519679613458101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c1f3075376a1190800000000000000
+      internalID: -7990961109601412096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42819092a62a9410800000000000000
+      internalID: 1484541506824012365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc01c486e45476e0800000000000000
+      internalID: -1840752998641234693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaef8709adb1c9c0800000000000000
+      internalID: -3908634467906884950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedd271db1e1a7010800000000000000
+      internalID: 1187294556592463341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b7c27dd0dc8dd0800000000000000
+      internalID: -2482379645055944973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d793e658502c490800000000000000
+      internalID: -7727607939976299240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009ac4a6070298a0800000000000000
+      internalID: -6299965203621965811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500ade45e87ae800800000000000000
+      internalID: 642458823119470675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80bd31efb6a3a520800000000000000
+      internalID: 2712194743655051407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d22f2adc2de5b0800000000000000
+      internalID: -5337560667758865784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226c5d97d3bf8490800000000000000
+      internalID: -7741771495787175378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f8611ec1a067d0800000000000000
+      internalID: -2927161851363396854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b096256e6547310800000000000000
+      internalID: 1401840931244149564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30b94b06e9977f40800000000000000
+      internalID: 5726214664535781439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ae7093af5b21a0800000000000000
+      internalID: -6833262853496069922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998de3f8a0b68470800000000000000
+      internalID: 8396592794972293529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2a31cdc459c510800000000000000
+      internalID: 1569879187802173327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fb27f00914bc600800000000000000
+      internalID: 489557071490105177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe05cd64e4d17f00800000000000000
+      internalID: 1112904660496486075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bc61f9a481c460800000000000000
+      internalID: 7260229939732723003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77a14c8a2e0ec770800000000000000
+      internalID: 8632853111620347770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6569b269b518830800000000000000
+      internalID: 4071636238654133930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fe78d058623360800000000000000
+      internalID: 7147890255029268589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7f0530e430cf990800000000000000
+      internalID: -7350996858177521694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52490176d10f9dac0800000000000000
+      internalID: -3829765999028038619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3364b4fd8d8620800000000000000
+      internalID: 2778032627295402909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172ae0255a7955c0800000000000000
+      internalID: -4226212269267474665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Female Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1397ca11a0226520800000000000000
+      internalID: 2693751403432088350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
